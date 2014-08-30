@@ -1,0 +1,4 @@
+dereksz.github.io
+=================
+
+Musings
